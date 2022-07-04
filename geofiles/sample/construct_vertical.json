@@ -1,0 +1,11 @@
+{
+   "Construct" : "vertical",
+   "Items" : [
+      {
+         "lineDst" : 412568548,
+         "lineSrc" : 3532607072,
+         "pedal" : 468360092,
+         "point" : 2910710678
+      }
+   ]
+}

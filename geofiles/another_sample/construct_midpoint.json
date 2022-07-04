@@ -1,0 +1,15 @@
+{
+   "Construct" : "midpoint",
+   "Items" : [
+      {
+         "midpoint" : 38314969,
+         "point1" : 3287141627,
+         "point2" : 4264538008
+      },
+      {
+         "midpoint" : 2376385781,
+         "point1" : 1720175211,
+         "point2" : 3287141627
+      }
+   ]
+}

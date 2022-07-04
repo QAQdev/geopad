@@ -1,0 +1,12 @@
+{
+   "Construct" : "tangent",
+   "Items" : [
+      {
+         "circleCenter" : 3287141627,
+         "circleOnArc" : 2629635407,
+         "outsidePoint" : 4264538008,
+         "pTangent1" : 1720175211,
+         "pTangent2" : 1698140626
+      }
+   ]
+}

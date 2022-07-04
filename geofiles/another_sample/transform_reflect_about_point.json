@@ -1,0 +1,11 @@
+{
+   "Items" : [
+      {
+         "originShapePoint1" : 2376385781,
+         "originShapePoint2" : 3287141627,
+         "pivot" : 38314969,
+         "shapeType" : 2
+      }
+   ],
+   "Transform" : "reflect-about-point"
+}
