@@ -5,9 +5,9 @@
 
 此份代码为 Windows 版本，仅支持在 Windows 上编译运行。构建方法如下：
 
-- `mkdir build`
+- 在工程目录下执行 `mkdir build`
 - `cd build`
 - `cmake .. -G "MingGW Makefiles"`
 - `make`
 
-执行完上述命令后，会在`build`文件夹内产生可执行文件。
+执行完上述命令后，会在 `build` 文件夹内产生可执行文件。
